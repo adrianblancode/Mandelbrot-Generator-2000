@@ -1,0 +1,4 @@
+Performance/Quality
+
+2000ms timeout buggen 
+Kan dela upp kerneln i mindre bitar för att förhindra timeout, men då tar det så mycket tid att det bara är enklare att köra med CPU.
