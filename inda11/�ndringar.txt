@@ -1,4 +1,0 @@
-Ändrade så att MandelbrotFrames knappar nu fungerar som de ska. Det går nu att minimera, maximera och stänga ner programmet med hjälp av de.
-P.g.a. detta så gjorde jag även framen undecorated.
-
-Arbetar just nu på att implementera en save-funktion.
